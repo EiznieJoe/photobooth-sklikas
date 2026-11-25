@@ -1,0 +1,17 @@
+{
+  "name": "Photobooth Apresiasi Cemerlang SK Likas 2026",
+  "short_name": "Photobooth SKL",
+  "description": "Photobooth Majlis Apresiasi Cemerlang Tahun 6 SK Likas 2026",
+  "lang": "ms",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1e0b46",
+  "theme_color": "#2a0f5c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
