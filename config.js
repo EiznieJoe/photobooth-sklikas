@@ -5,7 +5,7 @@ window.APP_CONFIG = {
   // 1) Tampal link Apps Script anda di sini (yang berakhir dengan /exec).
   //    Biarkan kosong "" kalau belum setup — gambar tetap disimpan dalam
   //    telefon dan akan dimuat naik bila link ini diisi.
-  UPLOAD_URL: "",
+  UPLOAD_URL: "https://script.google.com/macros/s/AKfycbyxORR2s0r4cHqQVKZnJYD2jYtUojDPJLzgvQdDh72utUMddY0A4e1WTTS-pGc7hicw/exec",
 
   // 2) Kod ini MESTI sama dengan UPLOAD_KEY dalam Code.gs (Apps Script).
   //    Dah diisi siap-siap, tak perlu ubah.
