@@ -1,6 +1,6 @@
 // Service worker: simpan fail app supaya boleh guna tanpa internet.
 // Tukar nombor versi ini setiap kali anda kemas kini fail app.
-const VERSION = "skl-pb-v2";
+const VERSION = "skl-pb-v3";
 const ASSETS = [
   "./", "./index.html", "./styles.css", "./app.js", "./config.js", "./manifest.json",
   "./frames/ungu_potret.webp", "./frames/ungu_landskap.webp",
